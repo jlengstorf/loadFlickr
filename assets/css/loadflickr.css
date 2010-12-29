@@ -1,0 +1,18 @@
+#flickr-demo-1,#flickr-demo-2 {
+    width:308px;
+    margin:10px auto;
+    padding: 0;
+    border:4px solid #222;
+    background:#FFF;
+    overflow:hidden;
+}
+
+#flickr-demo-1 li,#flickr-demo-2 li {
+    float: left;
+    height: 75px;
+    overflow: hidden;
+    margin:0px auto;
+    padding:0;
+    text-align:center;
+    border:1px solid #DDD;
+}
